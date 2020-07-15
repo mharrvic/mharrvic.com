@@ -11,7 +11,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <meta name="Mhar Vic" content="Mhar Vic Chicano's Portfolio" />
-
+          <meta content="width=device-width, initial-scale=1" name="viewport" />
           <meta property="og:type" content="website" />
           <meta content="summary" name="twitter:card" />
 
