@@ -11,6 +11,11 @@ class MyDocument extends Document {
       <Html>
         <Head>
           <meta name="Mhar Vic" content="Mhar Vic Chicano's Portfolio" />
+
+          <meta property="og:type" content="website" />
+          <meta content="summary" name="twitter:card" />
+
+          <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
           <link
             rel="icon"
             href={require("../assets/img/favicon.png")}
