@@ -12,6 +12,7 @@ export default function IndexPage() {
           type="image/png"
           sizes="16x16"
         />
+        <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
       </Head>
       <div className="relative bg-gray-800 overflow-hidden">
         <div className="hidden sm:block sm:absolute sm:inset-0">
